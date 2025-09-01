@@ -104,6 +104,7 @@ LeafSnap/
 * Rishabh Jain
 * Nishant Sharma
 * Girish Kumar
+* Soubhadra Kayal
 
 ---
 
@@ -114,5 +115,6 @@ For questions, suggestions, or bug reports, please contact us:
 * rishabhjain61002@gmail.com
 * sharmanishant731@gmail.com
 * goyalanshul1890@gmail.com
+* soubhadrakayal@gmail.com
 
 ---
